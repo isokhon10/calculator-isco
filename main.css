@@ -1,3 +1,9 @@
+body {
+    background-image: url(photo_2023-09-24_01-24-55.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 * {
     margin: 0;
     padding: 0;
